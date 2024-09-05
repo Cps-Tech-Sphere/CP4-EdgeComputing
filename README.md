@@ -58,7 +58,7 @@ O desenvolvimento foi realizado na plataforma Wokwi, que permite simular a opera
 
 Clone o repositório:
 
-1. ```git clone https://github.com/seu-usuario/nome-do-repositorio.git```
+1. ```git clone https://github.com/Cps-Tech-Sphere/CP4-EdgeComputing.git```
 2. Configure o ambiente FIWARE conforme as instruções no repositório do professor Cabrini.
 3. Configure o código com as credenciais corretas de Wi-Fi e MQTT.
 4. Faça o upload do código no ESP32 através da plataforma Wokwi ou Arduino IDE.
