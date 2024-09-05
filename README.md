@@ -9,6 +9,18 @@ Este projeto implementa um **sensor de luminosidade** utilizando o **ESP32 DevKi
 
 O objetivo deste projeto é monitorar a luminosidade em vinherias de forma remota, integrando o sensor ao ecossistema FIWARE para envio de dados e gerenciamento via **API Postman**. O sensor ESP32 coleta dados e os envia para um broker MQTT, de onde o FIWARE Helix pode monitorar e tomar ações baseadas nas leituras.
 
+
+### Acesso ao prototipo simulado
+<a href="https://wokwi.com/projects/408016150371922945" target="_blank" style="text-align: center; margin-right: 10px;">
+  <img loading="lazy" src="https://www.facebook.com/wokwi/?locale=pt_BR" width="150px"
+</a>
+
+### Vídeo explicativo sobre o prejeto
+
+<a href="https://www.youtube.com/watch?v=J-tl1dWq988" target="_blank" style="text-align: center; margin-right: 10px;">
+  <img loading="lazy" src="https://pt.m.wikipedia.org/wiki/Ficheiro:Youtube_logo.png" width="150px"
+</a>
+
 ### Componentes Utilizados
 
 - **ESP32 DevKit v1**
