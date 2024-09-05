@@ -17,7 +17,7 @@ O objetivo deste projeto é monitorar a luminosidade em vinherias de forma remot
 
 ### Vídeo explicativo sobre o prejeto
 
-<a href="https://www.youtube.com/watch?v=J-tl1dWq988" target="_blank" style="text-align: center; margin-right: 10px;">
+<a href="https://www.youtube.com/watch?v=9bLYbJM8NlA" target="_blank" style="text-align: center; margin-right: 10px;">
   <img loading="lazy" src="/img/youtube.png" width="150px">
 </a>
 
