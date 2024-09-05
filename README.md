@@ -12,13 +12,13 @@ O objetivo deste projeto é monitorar a luminosidade em vinherias de forma remot
 
 ### Acesso ao prototipo simulado
 <a href="https://wokwi.com/projects/408016150371922945" target="_blank" style="text-align: center; margin-right: 10px;">
-  <img loading="lazy" src="https://www.facebook.com/wokwi/?locale=pt_BR" width="150px">
+  <img loading="lazy" src="/img/wokwi.png" width="150px">
 </a>
 
 ### Vídeo explicativo sobre o prejeto
 
 <a href="https://www.youtube.com/watch?v=J-tl1dWq988" target="_blank" style="text-align: center; margin-right: 10px;">
-  <img loading="lazy" src="https://pt.m.wikipedia.org/wiki/Ficheiro:Youtube_logo.png" width="150px">
+  <img loading="lazy" src="/img/youtube.png" width="150px">
 </a>
 
 ### Componentes Utilizados
